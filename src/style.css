@@ -1,0 +1,18 @@
+body {
+  background-image: url('./weather.jpg'); /* Fetches a random weather-related image */
+  background-size: cover; /* Ensures the image covers the entire screen */
+  background-position: center; /* Centers the image */
+  background-repeat: no-repeat; /* Prevents image repetition */
+  font-family: Arial, sans-serif; /* Ensures clean font */
+  height: 100vh; /* Makes sure the background covers the full viewport */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.container {
+  max-width: 500px;
+  margin: auto;
+}
+.card {
+  border-radius: 15px;
+}

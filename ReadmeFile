@@ -1,0 +1,2 @@
+Weather Application
+A React.js Weather Application that fetches real-time weather data using the OpenWeatherMap API. Users can enter a city name to get the current weather conditions, including temperature, wind speed, and humidity
